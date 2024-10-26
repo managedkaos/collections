@@ -91,6 +91,7 @@ print(response.text)
 ## Images
 
 - [How to build an image URL.](https://developer.themoviedb.org/docs/image-basics)
+- [Image URL Path Discussion](https://www.themoviedb.org/talk/5aeaaf56c3a3682ddf0010de)
 
 ### Supported Image Sizes
 
