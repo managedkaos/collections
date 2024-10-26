@@ -120,36 +120,14 @@ logo     = TMDb Logo
 
 ### Examples
 
-#### Original
-
-_Original Size_ is the size of the uploaded image.  It can be between _Minimum Resolution_ and _Maximum Resolution_.
-
-- ![Original](https://image.tmdb.org/t/p/original/bvYjhsbxOBwpm8xLE5BhdA3a8CZ.jpg)
-
-#### Background
-
-- w300
-  ![w300](https://image.tmdb.org/t/p/w300/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg)
-
-- w780
-  ![w780](https://image.tmdb.org/t/p/w780/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg)
-
-#### Poster
-
-- w92
-  ![w92](https://image.tmdb.org/t/p/w92/bvYjhsbxOBwpm8xLE5BhdA3a8CZ.jpg)
-
-- w154
-  ![w154](https://image.tmdb.org/t/p/w154/bvYjhsbxOBwpm8xLE5BhdA3a8CZ.jpg)
-
-- w185
-  ![w185](https://image.tmdb.org/t/p/w185/bvYjhsbxOBwpm8xLE5BhdA3a8CZ.jpg)
-
-- w342
-  ![w342](https://image.tmdb.org/t/p/w342/bvYjhsbxOBwpm8xLE5BhdA3a8CZ.jpg)
-
-- w500
-  ![w500](https://image.tmdb.org/t/p/w500/bvYjhsbxOBwpm8xLE5BhdA3a8CZ.jpg)
-
-- w780
-  ![w780](https://image.tmdb.org/t/p/w780/bvYjhsbxOBwpm8xLE5BhdA3a8CZ.jpg)
+| Detail   |  Image   |
+| :------: | :------: |
+| _Original Size_ is the size of the uploaded image.  It can be between _Minimum Resolution_ and _Maximum Resolution_.| ![Original](https://image.tmdb.org/t/p/original/bvYjhsbxOBwpm8xLE5BhdA3a8CZ.jpg) |
+| Background w300 | ![w300](https://image.tmdb.org/t/p/w300/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg)
+| Background w780 | ![w780](https://image.tmdb.org/t/p/w780/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg) |
+| Poster w92      | ![w92](https://image.tmdb.org/t/p/w92/bvYjhsbxOBwpm8xLE5BhdA3a8CZ.jpg) |
+| Poster w154     | ![w154](https://image.tmdb.org/t/p/w154/bvYjhsbxOBwpm8xLE5BhdA3a8CZ.jpg) |
+| Poster w185     | ![w185](https://image.tmdb.org/t/p/w185/bvYjhsbxOBwpm8xLE5BhdA3a8CZ.jpg) |
+| Poster w342     | ![w342](https://image.tmdb.org/t/p/w342/bvYjhsbxOBwpm8xLE5BhdA3a8CZ.jpg) |
+| Poster w500     | ![w500](https://image.tmdb.org/t/p/w500/bvYjhsbxOBwpm8xLE5BhdA3a8CZ.jpg) |
+| Poster w780     | ![w780](https://image.tmdb.org/t/p/w780/bvYjhsbxOBwpm8xLE5BhdA3a8CZ.jpg) |
