@@ -131,3 +131,7 @@ logo     = TMDb Logo
 | Poster w342     | ![w342](https://image.tmdb.org/t/p/w342/bvYjhsbxOBwpm8xLE5BhdA3a8CZ.jpg) |
 | Poster w500     | ![w500](https://image.tmdb.org/t/p/w500/bvYjhsbxOBwpm8xLE5BhdA3a8CZ.jpg) |
 | Poster w780     | ![w780](https://image.tmdb.org/t/p/w780/bvYjhsbxOBwpm8xLE5BhdA3a8CZ.jpg) |
+
+#### Poster w780     
+
+![w780](https://image.tmdb.org/t/p/w780/bvYjhsbxOBwpm8xLE5BhdA3a8CZ.jpg) 
